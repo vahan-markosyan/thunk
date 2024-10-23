@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "101",
+      "name": "Tiko",
+      "salary": "200000"
+    },
+    {
+      "id": "102",
+      "name": "Vzgo",
+      "salary": "300000"
+    },
+    {
+      "id": "103",
+      "name": "Smbo",
+      "salary": "400000"
+    },
+    {
+      "id": "104",
+      "name": "Garso",
+      "salary": "500000"
+    },
+    {
+      "id": "3fe2",
+      "name": "Gevor",
+      "salary": "800000"
+    },
+    {
+      "id": "d757",
+      "name": "Armen",
+      "salary": "120000"
+    },
+    {
+      "id": "1f43",
+      "name": "Azgush",
+      "salary": "5000"
+    }
+  ]
+}
